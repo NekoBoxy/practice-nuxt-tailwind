@@ -1,1 +1,1 @@
-# practive-nuxt-tailwind
+# practice-nuxt-tailwind
